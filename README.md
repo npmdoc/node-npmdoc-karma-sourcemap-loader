@@ -1,4 +1,7 @@
-# api documentation for  [karma-sourcemap-loader (v0.3.7)](https://github.com/demerzel3/karma-sourcemap-loader#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-sourcemap-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-sourcemap-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-sourcemap-loader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-sourcemap-loader)
+# npmdoc-karma-sourcemap-loader
+
+#### basic api documentation for  [karma-sourcemap-loader (v0.3.7)](https://github.com/demerzel3/karma-sourcemap-loader#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-karma-sourcemap-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-karma-sourcemap-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-karma-sourcemap-loader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-karma-sourcemap-loader)
+
 #### Karma plugin that locates and loads existing javascript source map files.
 
 [![NPM](https://nodei.co/npm/karma-sourcemap-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/karma-sourcemap-loader)
@@ -59,7 +62,8 @@
         "url": "git+ssh://git@github.com/demerzel3/karma-sourcemap-loader.git"
     },
     "scripts": {},
-    "version": "0.3.7"
+    "version": "0.3.7",
+    "bin": {}
 }
 ```
 
